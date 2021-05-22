@@ -1,0 +1,23 @@
+body {
+	background-color: #e6acd65c;
+}
+#friend-text {
+	color: red;
+	font-family: 'Trebuchet MS', sans-serif;
+}
+
+#friend-button {
+	background-color: #9eba00ad;
+	font-family: 'Trebuchet MS', sans-serif;
+	font-size: 20px
+}
+
+#friend-name {
+	color: #ec4040e6;
+	font-family: 'Trebuchet MS', sans-serif;
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
+}
